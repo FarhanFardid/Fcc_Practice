@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color:aqua;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    max-width :1020px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+}
+.image {
+    height: 120px;
+    width: 150px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    margin:3px;
+    float:left;
+}
+
+.image:hover{
+    border: 2px solid green;
+}
+
+.header-bio {
+    color:blue;
+padding:20px;
+float:left;
+
+}
+.header-contact{
+    float:right;
+    padding:35px;
+
+}
+
+.header-contact a{
+    text-decoration: none;
+    color:blueviolet;
+
+}
+
+.header-contact a:hover{
+    color:brown;
+    text-shadow: 2px rgb(95, 75, 75);
+}
+
+.div-clear{
+    clear:both;
+}
+
+hr{
+    
+    border: 3px solid black;
+    margin: 10px auto;
+    border-bottom: none;
+    width: 100%;
+}
+/*Personal section start*/
+
+#personal-section{
+    margin:10px;
+    margin-bottom: 10px;
+
+}
+
+.content{
+
+}
+
+.left-div{
+    width:30%;
+    float:left;
+
+
+}
+
+.right-div{
+    width:70%;
+    float:left;
+      
+}
+
+.common-hr{
+    border: 2px solid black;
+    margin: 10px auto;
+    border-bottom: none;
+    width: 100%;
+}
+
+#work-section{
+    margin:10px;
+    margin-bottom: 10px;
+
+}
+
+#skill-section{
+    margin:10px;
+    margin-bottom: 10px;
+}
+
+h3 , h4{
+    color: rgb(13, 13, 167);
+}
+
+#education-section{
+    margin:10px;
+    margin-bottom: 10px;
+}
+
+#honor-section{
+    margin:10px;
+    margin-bottom: 10px;
+}
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+}

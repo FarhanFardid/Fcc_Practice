@@ -1,0 +1,103 @@
+*{
+    margin:0px;
+    paddin:0px;
+}
+.body{
+    background-color:aqua;
+
+}
+
+
+
+.container{
+background-color:rgb(221, 42, 42);
+width:400px;
+margin: 0 auto;
+text-align: center;
+margin-top: 10px;
+box-shadow: 0 7px 8px 0 rgb(80, 179, 23);
+font-size:0;
+padding:0;
+}
+
+.container:hover{
+    box-shadow: 0 7px 8px 0 rgb(219, 219, 18);
+}
+
+
+.header{
+    text-align: center;
+    font-size:30px;
+    color:blueviolet;
+    background-color: azure;
+    padding:0;
+    margin:0;
+    
+    
+
+}
+
+
+#input-head{
+    width:;
+    height:70px;
+padding: 0 5px;
+background-color: rgb(156, 18, 168);
+font-size: 30px;
+font-weight:bold;
+text-align: right;
+letter-spacing: 1px;
+}
+
+.calc-body{
+    background-color: aliceblue;
+    
+    
+}
+
+.btn{
+ 
+    text-align: center;
+    width:100px;
+    padding:0 auto;
+    height:55px;
+    font-weight: bolder;
+    color:brown;
+    font-size: 20px;
+    background-color: rgb(44, 122, 200);
+    border: 2px solid  rgb(186, 228, 18);
+    
+}
+
+.btn:hover{
+
+background-color: aquamarine;    
+}
+
+.btn-style{
+    width:100px;
+    padding:0 auto;
+    height:55px;
+    font-weight: bolder;
+    color:brown;
+    font-size: 20px;
+    background-color:chartreuse;
+}
+.btn-style:hover{
+
+    background-color: aquamarine;    
+    }
+
+.btn-style1{
+    width:100px;
+    padding:0 auto;
+    height:55px;
+    font-weight: bolder;
+    color:rgb(13, 217, 33);
+    font-size: 20px;
+    background-color:rgb(211, 31, 11);
+}
+.btn-style1:hover{
+
+    background-color: aquamarine;    
+    }
